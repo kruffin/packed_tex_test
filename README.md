@@ -1,7 +1,7 @@
 ## Purpose
 A minimized surface for issues that just deals with `packed_tex` files as suggested here: https://github.com/Zylann/godot_heightmap_plugin/issues/298#issuecomment-1016754919
 
-[Non-Server Run](packed_tex_test_2022-01-19_21-24-29.png)
+![Non-Server Run](packed_tex_test_2022-01-19_21-24-29.png)
 
 ## Problem
 When running the server build of godot and the `packed_tex` custom resource it fails indicating it can't find the `packed_tex`.
