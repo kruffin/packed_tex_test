@@ -1,6 +1,8 @@
 ## Purpose
 A minimized surface for issues that just deals with `packed_tex` files as suggested here: https://github.com/Zylann/godot_heightmap_plugin/issues/298#issuecomment-1016754919
 
+[Non-Server Run](packed_tex_test_2022-01-19_21-24-29.png)
+
 ## Problem
 When running the server build of godot and the `packed_tex` custom resource it fails indicating it can't find the `packed_tex`.
 
@@ -29,4 +31,3 @@ ERROR: There are still MemoryPool allocs in use at exit!
 
 ## Server Binary
 The Godot server binary in use is: https://downloads.tuxfamily.org/godotengine/3.4.2/Godot_v3.4.2-stable_linux_server.64.zip
-
